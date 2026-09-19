@@ -45,9 +45,9 @@ SMTP_SERVER = "smtp.gmail.com"
 SMTP_PORT = 587
 
 # Replace these with your own details.
-SENDER_EMAIL = "YOUR_EMAIL@gmail.com"
-SENDER_APP_PASSWORD = "YOUR_16_DIGIT_APP_PASSWORD"   # Gmail "App Password", not your normal password
-RECEIVER_EMAIL = "YOUR_EMAIL@gmail.com"
+SENDER_EMAIL = "mylyrical226@gmail.com"
+SENDER_APP_PASSWORD = "ykhn ezhq nrqd hknm"   # Gmail "App Password", not your normal password
+RECEIVER_EMAIL = "akashab262@gmail.com"
 
 
 # =========================================================
